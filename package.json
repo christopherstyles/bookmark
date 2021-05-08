@@ -12,7 +12,7 @@
     "core-js": "^3.6.5",
     "feather-icons": "4.28.0",
     "jquery": "3.5.1",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "popper.js": "^1.16.1",
     "rails-erb-loader": "^5.5.2",
     "regenerator-runtime": "^0.13.3",
